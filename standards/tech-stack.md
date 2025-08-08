@@ -4,26 +4,26 @@
 
 Global tech stack defaults for Agent OS projects, overridable in project-specific `.agent-os/product/tech-stack.md`.
 
-- App Framework: Ruby on Rails 8.0+
-- Language: Ruby 3.2+
+- App Framework: NextJs 15+
+- Language: Typescript
 - Primary Database: PostgreSQL 17+
-- ORM: Active Record
+- ORM: Prisma
 - JavaScript Framework: React latest stable
-- Build Tool: Vite
+- Build Tool: Next
 - Import Strategy: Node.js modules
-- Package Manager: npm
+- Package Manager: pnpm
 - Node Version: 22 LTS
 - CSS Framework: TailwindCSS 4.0+
-- UI Components: Instrumental Components latest
-- UI Installation: Via development gems group
+- UI Components: Shadcn/Ui latest
+- UI Installation: 
 - Font Provider: Google Fonts
 - Font Loading: Self-hosted for performance
 - Icons: Lucide React components
-- Application Hosting: Digital Ocean App Platform/Droplets
+- Application Hosting: Vercel
 - Hosting Region: Primary region based on user base
-- Database Hosting: Digital Ocean Managed PostgreSQL
+- Database Hosting: Supabase PostgreSQL
 - Database Backups: Daily automated
-- Asset Storage: Amazon S3
+- Asset Storage: Supabase
 - CDN: CloudFront
 - Asset Access: Private with signed URLs
 - CI/CD Platform: GitHub Actions
