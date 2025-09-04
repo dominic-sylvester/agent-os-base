@@ -27,6 +27,6 @@ Docs, installation, useage, & best practices 👉 [It's all here](https://builde
 Created by Brian Casel, the creator of [Builder Methods](https://buildermethods.com), where Brian helps professional software developers and teams build with AI.
 
 Get Brian's free resources on building with AI:
+
 - [Builder Briefing newsletter](https://buildermethods.com)
 - [YouTube](https://youtube.com/@briancasel)
-
