@@ -32,12 +32,12 @@ Use the file-creator subagent to create file: tasks.md inside of the current fea
 
 <task_structure>
   <major_tasks>
-    - count: 1-5
+    - count: 1-10
     - format: numbered checklist
     - grouping: by feature or component
   </major_tasks>
   <subtasks>
-    - count: up to 8 per major task
+    - count: up to 10 per major task
     - format: decimal notation (1.1, 1.2)
     - first_subtask: typically write tests
     - last_subtask: verify all tests pass
