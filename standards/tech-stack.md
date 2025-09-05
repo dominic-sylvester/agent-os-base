@@ -15,7 +15,6 @@ Global tech stack defaults for Agent OS projects, overridable in project-specifi
 - Node Version: 22 LTS
 - CSS Framework: TailwindCSS 4.0+
 - UI Components: Shadcn/Ui latest
-- UI Installation: 
 - Font Provider: Google Fonts
 - Font Loading: Self-hosted for performance
 - Icons: Lucide React components
